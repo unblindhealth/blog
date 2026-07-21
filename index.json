@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "how-to-read-a-hospital-bill",
+    "title": "How to Read a Hospital Bill",
+    "date": "2026-07-10",
+    "excerpt": "Itemized charges, CPT codes, and the gap between what you're billed and what you actually owe — decoded line by line.",
+    "author": "UnblindHealth Team",
+    "tags": ["billing", "guides"]
+  },
+  {
+    "slug": "what-is-a-chargemaster",
+    "title": "What Is a Hospital Chargemaster?",
+    "date": "2026-07-14",
+    "excerpt": "The master price list behind every hospital charge — why it exists, and why almost nobody actually pays those numbers.",
+    "author": "UnblindHealth Team",
+    "tags": ["pricing", "explainers"]
+  }
+]
