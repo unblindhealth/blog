@@ -1,7 +1,3 @@
-# How to Read a Hospital Bill (Line by Line)
-
-*Published July 10, 2026 · UnblindHealth Research Team · 9 min read*
-
 The first hospital bill I ever really looked at was two pages long and told me almost nothing — a handful of category labels, a total at the bottom, a due date. It looked authoritative and final.
 
 It was neither. It was a summary — and the actual bill, the one with the real detail in it, is something you have to ask for.

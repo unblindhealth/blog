@@ -1,7 +1,3 @@
-# What Is a Hospital Chargemaster? (And Who Pays It)
-
-*Published July 14, 2026 · UnblindHealth Research Team · 9 min read*
-
 Almost every number on a hospital bill traces back to one internal document: the **chargemaster**, formally the charge description master, or CDM. It's a database of list prices — tens of thousands of rows, covering everything from a complex surgery to a single dose of medication to a box of gauze.
 
 It's also, in practice, the most misread document in American healthcare, because it looks like a price list and functions like an opening bid.
