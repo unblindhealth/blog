@@ -14,5 +14,29 @@
     "excerpt": "The internal price list behind almost every number on your bill. What's in it, why the prices are inflated, who actually pays them, and how to find the real price instead.",
     "author": "UnblindHealth Research Team",
     "tags": ["pricing", "explainers"]
+  },
+  {
+    "slug": "how-prescription-prices-are-set-2026",
+    "title": "How Prescription Drug Prices Are Set in 2026",
+    "date": "2026-08-03",
+    "excerpt": "Why can the same prescription have different prices? How cash prices, insurance, PBMs, discount coupons, cost-plus pharmacies, and generic programs affect what you pay.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["pricing", "prescriptions"]
+  },
+  {
+    "slug": "how-to-negotiate-a-hospital-bill-2026",
+    "title": "How to Negotiate a Hospital Bill in 2026: A Practical Guide",
+    "date": "2026-08-06",
+    "excerpt": "A step-by-step order to work through before paying a hospital bill: itemize it, check for surprise-billing protections, apply for financial assistance, and compare it against published prices.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["billing", "guides"]
+  },
+  {
+    "slug": "pay-cash-for-prescription",
+    "title": "Can You Pay Cash for a Prescription If You Have Insurance?",
+    "date": "2026-08-09",
+    "excerpt": "Yes. You can ask a pharmacy what a prescription costs without using your insurance. But the lower price is not always the better choice once deductibles and plan rules are involved.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["pricing", "prescriptions"]
   }
 ]
