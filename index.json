@@ -38,5 +38,45 @@
     "excerpt": "Yes. You can ask a pharmacy what a prescription costs without using your insurance. But the lower price is not always the better choice once deductibles and plan rules are involved.",
     "author": "UnblindHealth Research Team",
     "tags": ["pricing", "prescriptions"]
+  },
+  {
+    "slug": "blood-work-cost-without-insurance",
+    "title": "How Much Does Blood Work Cost Without Insurance?",
+    "date": "2026-08-17",
+    "excerpt": "Blood work without insurance can cost less than $30 for a basic test or several hundred dollars for a broad panel. Here's how to compare the exact same test across labs before you pay.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["pricing", "guides"]
+  },
+  {
+    "slug": "does-paying-cash-count-toward-deductible",
+    "title": "Does Paying Cash Count Toward Your Deductible? The Tradeoff Nobody Explains",
+    "date": "2026-08-11",
+    "excerpt": "Paying cash for healthcare may save you money today, but it may not count toward your insurance deductible. Here's how to compare cash prices with insurance before you choose.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["pricing", "explainers"]
+  },
+  {
+    "slug": "mri-cost-without-insurance",
+    "title": "How Much Does an MRI Cost Without Insurance?",
+    "date": "2026-08-13",
+    "excerpt": "A 2026 analysis of cash prices at 274 U.S. hospitals found the same brain MRI ranging from $406 to $14,681 — a 36x spread for the same billing code. Here's how to get a real, all-in estimate before you book.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["pricing", "guides"]
+  },
+  {
+    "slug": "walmart-4-dollar-prescription-list-2026",
+    "title": "The Walmart $4 Prescription List in 2026: What It Actually Covers",
+    "date": "2026-08-15",
+    "excerpt": "Walmart's low-cost prescription program still starts at $4, but not every drug on the list is $4. Here's how to check the exact drug, strength, and quantity before assuming the price.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["pricing", "prescriptions"]
+  },
+  {
+    "slug": "why-your-copay-can-be-higher-than-the-cash-price",
+    "title": "Why Your Copay Can Be Higher Than the Cash Price",
+    "date": "2026-08-17",
+    "excerpt": "A prescription can cost more through insurance than it does if you pay cash. Here's why the two prices come from different systems, and what to check before you hand over your insurance card.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["pricing", "prescriptions"]
   }
 ]
