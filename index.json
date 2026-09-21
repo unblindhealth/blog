@@ -78,5 +78,117 @@
     "excerpt": "A prescription can cost more through insurance than it does if you pay cash. Here's why the two prices come from different systems, and what to check before you hand over your insurance card.",
     "author": "UnblindHealth Research Team",
     "tags": ["pricing", "prescriptions"]
+  },
+  {
+    "slug": "what-is-a-pbm",
+    "title": "What Is a PBM? Why the Cheaper Drug Price Can Stay Hidden",
+    "date": "2026-08-28",
+    "excerpt": "What is a PBM, and why can your insurance price be higher than cash? Learn how pharmacy benefit managers work and what to ask before paying.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["prescriptions", "explainers"]
+  },
+  {
+    "slug": "direct-primary-care-hsa-2026",
+    "title": "Direct Primary Care + HSA in 2026: What Changed",
+    "date": "2026-08-31",
+    "excerpt": "Direct primary care can work with an HSA in 2026. Learn the new IRS rules, the $150/$300 limits, and what to check before joining a DPC practice.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["coverage", "explainers"]
+  },
+  {
+    "slug": "good-faith-estimate-400-rule",
+    "title": "Good Faith Estimate: The $400 Medical Bill Rule",
+    "date": "2026-09-02",
+    "excerpt": "Got a bill above your Good Faith Estimate? Check whether the federal $400 rule applies to you and what to do next.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["billing", "guides"]
+  },
+  {
+    "slug": "health-insurance-after-losing-job",
+    "title": "Health Insurance After Losing Your Job: Cost Guide",
+    "date": "2026-09-03",
+    "excerpt": "Health insurance after losing your job: compare Medicaid, spouse coverage, Marketplace plans, COBRA, and other options by total cost.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["coverage", "guides"]
+  },
+  {
+    "slug": "special-enrollment-after-losing-health-insurance",
+    "title": "Special Enrollment After Losing Health Insurance",
+    "date": "2026-09-04",
+    "excerpt": "Lost health insurance? Compare the 60-day Marketplace window, 30-day employer-plan window, COBRA timing, documents, and coverage start dates.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["coverage", "guides"]
+  },
+  {
+    "slug": "cobra-vs-marketplace",
+    "title": "COBRA vs Marketplace: Which Is Cheaper?",
+    "date": "2026-09-08",
+    "excerpt": "COBRA vs Marketplace after job loss: compare net premium, deductible progress, tax credits, networks, and timing before choosing coverage.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["coverage", "guides"]
+  },
+  {
+    "slug": "how-much-does-cobra-cost",
+    "title": "How Much Does COBRA Cost?",
+    "date": "2026-09-09",
+    "excerpt": "How much does COBRA cost? Learn why the premium can jump after job loss, how the 102% rule works, and what to ask before electing coverage.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["coverage", "guides"]
+  },
+  {
+    "slug": "catastrophic-health-insurance",
+    "title": "Catastrophic Health Insurance: Who Qualifies?",
+    "date": "2026-09-10",
+    "excerpt": "Catastrophic health insurance can mean a lower premium and high deductible. See who qualifies, what it covers, and when Bronze or Silver may be better.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["coverage", "guides"]
+  },
+  {
+    "slug": "short-term-health-insurance",
+    "title": "Short-Term Health Insurance: What to Check First",
+    "date": "2026-09-11",
+    "excerpt": "Short-term health insurance can bridge a temporary coverage gap. See what it is, who uses it, what it may exclude, and what to check before buying.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["coverage", "guides"]
+  },
+  {
+    "slug": "health-insurance-for-self-employed",
+    "title": "Health Insurance for Self-Employed People",
+    "date": "2026-09-14",
+    "excerpt": "Self-employed health insurance: compare Marketplace coverage, subsidies, spouse plans, HSAs, and the tax deduction without getting lost in plan jargon.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["coverage", "guides"]
+  },
+  {
+    "slug": "glp-1-cost-without-insurance",
+    "title": "GLP-1 Cost Without Insurance: 2026 Prices",
+    "date": "2026-09-15",
+    "excerpt": "Compare current self-pay prices for Foundayo, Wegovy, Zepbound, Ozempic and Mounjaro, plus what to check before paying cash.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["pricing", "prescriptions"]
+  },
+  {
+    "slug": "lillydirect-vs-novocare",
+    "title": "LillyDirect vs NovoCare: GLP-1 Prices Compared",
+    "date": "2026-09-16",
+    "excerpt": "Compare LillyDirect and NovoCare self-pay GLP-1 options, current prices, insurance rules and the questions to ask before choosing.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["pricing", "prescriptions"]
+  },
+  {
+    "slug": "glp-1-insurance-coverage",
+    "title": "Does Insurance Cover GLP-1s in 2026?",
+    "date": "2026-09-17",
+    "excerpt": "GLP-1 coverage changed in 2026. See how private insurance, Medicare, Medicaid and the new Medicare GLP-1 Bridge work before paying cash.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["coverage", "prescriptions"]
+  },
+  {
+    "slug": "glp-1-savings-card-vs-self-pay",
+    "title": "GLP-1 Savings Cards vs Self-Pay: What to Check",
+    "date": "2026-09-18",
+    "excerpt": "Savings cards and self-pay GLP-1 prices work differently. Compare insurance, manufacturer offers and deductible impact before choosing.",
+    "author": "UnblindHealth Research Team",
+    "tags": ["pricing", "prescriptions"]
   }
 ]
